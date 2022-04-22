@@ -1,0 +1,34 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.Python
+downloads/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# logs
+*.log
+
+# OS garbage
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pycharm Settings
+.idea/
+
+# VS Code Settings
+.vscode
+
+####  Individual Settings  ####
+# Environment Settings
+.env
+
+# Elasticsearch data snapshot
+elasticsearch/snapshot
+*.zip
